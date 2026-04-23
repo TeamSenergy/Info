@@ -27,20 +27,22 @@ We work on real-world business platforms, software systems, automation tools, an
 
 # 👨‍💻 Founders
 
-## Abhishek
-- MCA Student  
+## Ayush Sharma
+- Front Developer 
+- Backend Developer  
+- Deployment Specialist  
+- Database Architect  
+- Full Stack Engineer
+- AI/ML
+- Hoistinger/AWS
+
+## AbhisheK
 - Full Stack Developer  
 - Cybersecurity Enthusiast  
 - Python Developer  
 - Java Developer  
 - AI-Based System Builder  
 
-## Ayush Sharma
-- MCA Student  
-- Backend Developer  
-- Deployment Specialist  
-- Database Architect  
-- Full Stack Engineer  
 
 ---
 
