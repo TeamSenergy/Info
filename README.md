@@ -1,246 +1,193 @@
-# 🚀 Team Senergy
-
 <div align="center">
 
-### Smart Digital Solutions • Secure Systems • Modern Engineering
+<img src="./assets/logo.png" width="220"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Development;Cybersecurity+Solutions;AI+%26+Machine+Learning;Cloud+Deployment+%26+Automation;Building+Reliable+Products+for+Real+Businesses" />
+# 🚀 Team Senergy
 
-<br>
+### Premium Technology • Development • Security • Innovation
 
-![Development](https://img.shields.io/badge/Full%20Stack-Development-blue?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Solutions-green?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI%20%7C%20ML-Projects-orange?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Cloud-Deployment-black?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=950&lines=Full+Stack+Development;Cybersecurity+Solutions;AI+%26+Machine+Learning;Cloud+Deployment+%26+Automation;Enterprise+Digital+Solutions" />
+
+<br><br>
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-0A66C2?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Secure%20Systems-111827?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI%20%7C%20ML-Innovation-2563EB?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Deployment-1E3A8A?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🌍 About Us
+# 🌍 About Team Senergy
 
-**Team Senergy** is a technology-focused software development team founded by **Ayush Sharma** and **Abhishek**, both MCA students passionate about building secure, scalable, and intelligent digital systems.
+**Team Senergy** is a premium software development and technology solutions team founded by **Ayush Sharma** and **Abhishek**.
 
-We work on real-world business platforms, software systems, automation tools, and security-oriented applications with a strong focus on quality and practical impact.
+We build **modern, scalable, secure digital systems** for businesses, startups, institutions, and organizations.
+
+Our work combines:
+
+- 💻 Full Stack Engineering  
+- 🔐 Cybersecurity Solutions  
+- 🤖 Artificial Intelligence / Machine Learning  
+- ☁️ Cloud Deployment  
+- ⚙️ Automation Systems  
 
 ---
 
 # 👨‍💻 Founders
 
 ## Ayush Sharma
-- Front Developer 
-- Backend Developer  
+- Frontend Development  
+- Backend Development  
 - Deployment Specialist  
 - Database Architect  
-- Full Stack Engineer
-- AI/ML
-- Hoistinger/AWS
+- Full Stack Engineer  
+- AI / ML Integration  
+- AWS / Hostinger Deployment  
 
 ## Abhishek
-- Full Stack Developer  
-- Cybersecurity Enthusiast  
-- Python Developer  
-- Java Developer  
-- AI-Based System Builder  
-
+- Full Stack Development  
+- Cybersecurity Solutions  
+- Python Engineering  
+- Java Development  
+- AI-Based Systems  
 
 ---
 
-# 🧠 Core Domains
+# 🧠 Core Expertise
 
-## 💻 Development
-- Full Stack Web Development  
-- Backend API Architecture  
-- Responsive Frontend Systems  
-- Database Design  
-- Production-Ready Applications  
-
-## 🔐 Cybersecurity
-- Vulnerability Scanning  
-- Secure Authentication Systems  
-- Security Testing  
-- Secure Development Practices  
-
-## 🤖 AI / ML
-- Malware Detection Models  
-- Automation Systems  
-- Intelligent Classification Projects  
-
-## ☁️ Deployment
-- Cloud Deployment  
-- Server Configuration  
-- Hosting & Production Setup  
+| Domain | Expertise |
+|-------|-----------|
+| 💻 Development | Full Stack Web Applications, APIs, Dashboards |
+| 🔐 Cybersecurity | Security Testing, Vulnerability Analysis |
+| 🤖 AI / ML | Malware Detection, Intelligent Systems |
+| ☁️ Cloud | Production Deployment, Hosting Setup |
 
 ---
 
 # 🚀 Major Projects
 
 ## 🌐 lookindharamshala.com
-Business-oriented digital platform designed for service visibility and local digital reach.
+Premium digital platform designed for business visibility and local digital presence.
 
-### Highlights
-- SEO-ready architecture  
-- Responsive UI  
-- Dynamic content handling  
-- Business scalability  
+✔ SEO Architecture  
+✔ Responsive UI  
+✔ Business Scalability  
+✔ Modern Web Design  
 
 ---
 
 ## ♟️ kangraChessclub.com
-Digital platform for chess community engagement and tournament visibility.
+Digital ecosystem for chess community growth and tournament visibility.
 
-### Highlights
-- Tournament information  
-- Event publishing  
-- Community access system  
+✔ Tournament Publishing  
+✔ Event Management  
+✔ Community Access  
 
 ---
 
 ## 🏥 Bhagwati Clinic
-Healthcare-focused digital presence solution.
+Healthcare digital platform.
 
-### Highlights
-- Clinic information system  
-- Contact-ready structure  
-- Service display interface  
+✔ Clinic Service Interface  
+✔ Contact Systems  
+✔ Patient-Friendly Structure  
 
 ---
 
 ## 🏠 CozyWay
-Modern service platform with scalable business design.
+Modern service platform built for digital business growth.
 
-### Highlights
-- Clean UI/UX  
-- Responsive architecture  
-- Service-ready backend structure  
+✔ Responsive Design  
+✔ Clean User Experience  
+✔ Business Ready Architecture  
 
 ---
 
-# ⚙️ Innovation & Technical Projects
+# ⚙️ Technical Innovation Projects
 
 ## 🛒 E-Commerce Platform
-- Product catalog  
-- User authentication  
-- Cart & order flow  
-- Admin dashboard  
+- Product Management  
+- Authentication  
+- Cart System  
+- Admin Dashboard  
 
 ## 🌐 Web Vulnerability Scanner
-- URL analysis  
-- Security checks  
-- Basic vulnerability reporting  
+- Security Scanning  
+- URL Analysis  
+- Vulnerability Reporting  
 
 ## 🤖 AI Malware Detector
-- File pattern analysis  
-- Threat classification  
-- AI-assisted detection  
+- Threat Classification  
+- File Analysis  
+- Intelligent Detection  
 
-## 🎓 College Chatbot System
-- Admission queries  
-- Course information  
-- Event support  
+## 🎓 College Chatbot
+- Admission Queries  
+- Course Information  
+- Event Support  
 
 ## 📊 Admin Dashboards
+- Monitoring  
 - Analytics  
-- User control  
-- Monitoring tools  
-
-## ⚡ Automation Tools
-- Python automation  
-- Workflow scripts  
-- Utility systems  
+- User Management  
 
 ---
 
 # 🔬 Technology Stack
 
 ## Languages
-- Python  
-- Java  
-- JavaScript  
-- SQL  
-- HTML / CSS  
+`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
 
-## Frameworks & Tools
-- Node.js  
-- Express.js  
-- MongoDB  
-- React  
-- REST APIs  
+## Frameworks
+`Node.js` `Express.js` `MongoDB` `React`
 
-## Additional Skills
-- Deployment Pipelines  
-- Security Architecture  
-- Debugging & Optimization  
+## Infrastructure
+`AWS` `Hostinger` `REST APIs`
 
 ---
 
 # 🔮 Future Scope
 
-We are actively expanding into:
+We are expanding toward:
 
 - SaaS Products  
-- AI Business Automation  
-- Enterprise Security Tools  
-- Smart Educational Platforms  
-- Cloud-Native Applications  
-- Scalable Business Systems  
+- Enterprise Security Platforms  
+- AI Automation Tools  
+- Smart Business Systems  
+- Cloud Native Products  
 
 ---
 
-# 🤝 Why Clients Choose Team Senergy
+# 🤝 Why Choose Team Senergy
 
-✅ Practical project experience  
-✅ Modern development stack  
-✅ Security-first mindset  
-✅ Scalable solutions  
-✅ Fast learning & adaptability  
-✅ Professional communication  
-
----
-
-# 🌟 Our Vision
-
-> Transforming ideas into future-ready digital products through innovation, reliability, and intelligent engineering.
+✅ Practical Industry Projects  
+✅ Premium Engineering Approach  
+✅ Secure Architecture  
+✅ Modern Technology Stack  
+✅ Long-Term Scalability  
 
 ---
 
-# 📈 Growth Direction
+# 🌟 Vision
 
-We believe technology should solve real business problems — not just look impressive.
-
-Every project is approached with:
-- Clear architecture  
-- Maintainable code  
-- Practical usability  
-- Long-term scalability  
+> Building premium digital systems that create real business value.
 
 ---
 
-# 📬 Collaboration
+# 📬 Services
 
-We would be thankful to work with you and contribute to your next digital product.
-
-### Services Available
 - Business Websites  
-- Software Systems  
+- Custom Software  
+- AI Solutions  
 - Security Projects  
-- AI/ML Solutions  
-- Deployment Support  
-
----
-
-# ⭐ Professional Values
-
-- Quality First  
-- Honest Work  
-- Long-Term Reliability  
-- Continuous Improvement  
-- Client Satisfaction  
+- Cloud Deployment  
 
 ---
 
 <div align="center">
 
-## 🚀 Team Senergy — Engineering Reliable Digital Futures
+## 🚀 Team Senergy — Building Smarter Digital Futures
 
 </div>
