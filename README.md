@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="senergy_main.jpeg" width="220"/>
+<img src="senergy_main.jpeg" width="full"/>
 
 # 🚀 Team Senergy
 
