@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="senergy_main.jpeg" width="full"/>
+
 
 # 🚀 Team Senergy
 
@@ -189,5 +189,5 @@ We are expanding toward:
 <div align="center">
 
 ## 🚀 Team Senergy — Building Smarter Digital Futures
-
+<img src="senergy_main.jpeg" width="full"/>
 </div>
