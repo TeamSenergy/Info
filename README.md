@@ -36,7 +36,7 @@ We work on real-world business platforms, software systems, automation tools, an
 - AI/ML
 - Hoistinger/AWS
 
-## AbhisheK
+## Abhishek
 - Full Stack Developer  
 - Cybersecurity Enthusiast  
 - Python Developer  
